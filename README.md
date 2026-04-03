@@ -1,9 +1,9 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&lines=Distributed+Systems+Researcher;Cloud-Native+Enthusiast;Systems+and+Cloud+Engineer;DevOps+Engineer)
 # Mohamed Rahal 👋
 
-🎓 PhD Candidate in Information Engineering
 🔬 Research Engineer @ IIT-CNR & University of Pisa (UniPi)
-🇪🇺 Contributor to the EDGELess EU Project
-
+🎓 PhD Candidate in Information Engineering 
+🇪🇺 Contributor to the EDGELESS EU Project
 ---
 
 ## 🚀 About Me
@@ -35,7 +35,7 @@ I have worked on:
 * Serverless Computing at the Edge
 * Cloud-Edge Continuum Architectures
 * Stateful Serverless Systems
-* Distributed Data Management in IoT Environments
+* Distributed Data Management
 
 A key aspect of my research is the development of **stateful serverless agents**—persistent and adaptive components designed to manage data across dynamic, distributed edge environments.
 
