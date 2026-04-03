@@ -8,9 +8,9 @@
 
 ## 🚀 About Me
 
-I am a PhD candidate and Research Engineer working at the forefront of the **cloud-edge continuum**, focusing on the design and optimization of **serverless architectures for edge computing environments**.
+I am a PhD candidate and Research Engineer working at the forefront of the **cloud-edge continuum**, focusing on the design and optimization of **serverless architectures for edge computing environments**, with a particular emphasis on **stateful serverless systems**.
 
-My work bridges the gap between centralized cloud systems and distributed edge infrastructures to enable **low-latency, scalable, and intelligent computing systems**.
+My work bridges the gap between centralized cloud systems and distributed edge infrastructures to enable **low-latency, scalable, and intelligent computing systems**, leveraging **stateful, persistent, and adaptive components** across dynamic environments.
 
 ---
 
@@ -54,6 +54,11 @@ A key aspect of my research is the development of **stateful serverless agents**
 * Rust, Go (learning), Bash
 * Docker, Linux
 * Git, VS Code
+![Rust](https://img.shields.io/badge/Rust-Systems-orange)
+![Go](https://img.shields.io/badge/Go-Cloud--Native-blue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
+![Serverless Edge](https://img.shields.io/badge/Serverless-Edge%20Computing-blue)
 
 ---
 
