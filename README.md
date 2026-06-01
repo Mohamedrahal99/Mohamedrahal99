@@ -74,9 +74,7 @@ A key aspect of my research is the development of **stateful serverless agents**
 ## 🌐 Community & Activities
 
 * ☁️ CNCF Enthusiast
-* 🎤 Attended recently **KubeCon + CloudNativeCon Europe 2026 (Amsterdam)**
-* IEEE student branch Pisa 
-
+* 🎤 Attended recently **KubeCon + CloudNativeCon Europe 2026 (Amsterdam)** 
 ---
 
 ## 📊 GitHub Stats
