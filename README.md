@@ -1,98 +1,40 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&lines=Distributed+Systems+Researcher;Cloud-Native+Enthusiast;Systems+and+Cloud+Engineer;DevOps+Engineer)
-# Mohamed Rahal 👋
+Mohamed Rahal 👋
 
-🔬 Research Engineer @ IIT-CNR
-🇪🇺 Contributor to the EDGELESS EU Project
----
+Research Engineer @ IIT-CNR | Kubernetes | Platform Engineering | Distributed Systems | Serverless Computing
 
-## 🚀 About Me
+🔬 Research Engineer at IIT-CNR and contributor to the EDGELESS European Project.
 
-I am a Research Engineer working at the forefront of the **cloud-edge continuum**, focusing on the design and optimization of **serverless architectures for edge computing environments**, with a particular emphasis on **stateful serverless systems**.
+I work on distributed systems, cloud-edge computing, and serverless architectures while building expertise in Kubernetes, Platform Engineering, GitOps, and Cloud-Native Infrastructure.
 
-My work bridges the gap between centralized cloud systems and distributed edge infrastructures to enable **low-latency, scalable, and intelligent computing systems**, leveraging **stateful, persistent, and adaptive components** across dynamic environments.
+🚀 About Me
 
----
+I am a Research Engineer focused on designing scalable distributed systems across cloud and edge environments.
 
-## 🧩 Background
+My current work involves serverless computing, edge-cloud infrastructures, and stateful distributed systems. Alongside my research activities, I actively develop practical skills in Platform Engineering, Kubernetes operations, infrastructure automation, observability, and cloud-native technologies.
 
-I hold a Master’s degree in Engineering with a specialization in **Cloud Computing and IT Architecture** from ESPRIT in Tunisia, graduating with distinction.
+My goal is to bridge advanced distributed systems research with production-grade cloud-native platforms.
 
-My background combines **strong academic foundations in distributed systems** with hands-on experience in **cloud-native engineering and DevOps practices**.
+🎯 Current Focus
 
-I have worked on:
+🚀 Serverless Computing
+☸️ Kubernetes & Cloud-Native Infrastructure
+⚙️ Platform Engineering & GitOps
+🤖 AgentOps & Cloud-Native AI Infrastructure
+📈 Observability & Reliability Engineering
+🎓 Kubestronaut Certification Track
 
-* Automated cloud and on-premise infrastructures using Terraform and Ansible
-* CI/CD pipelines for scalable applications deployed on Kubernetes
-* Real-time data pipelines using Kafka, Debezium, and Apache NiFi
-* DevSecOps integration with tools such as Trivy, Falco, OPA, and Vault
-* Data-intensive systems including PostgreSQL clustering and ETL automation
 
----
+🌐 Community
+CNCF Enthusiast
+KubeCon + CloudNativeCon Europe 2026 Attendee
 
-## 🔬 Research Focus
+📫 Connect With Me
+LinkedIn: https://www.linkedin.com/in/mohamed-rahal-010760193/
 
-* Serverless Computing at the Edge
-* Cloud-Edge Continuum Architectures
-* Stateful Serverless Systems
-* Distributed Data Management
+⚡ Vision
 
-A key aspect of my research is the development of **stateful serverless agents**—persistent and adaptive components designed to manage data across dynamic, distributed edge environments.
+Building scalable cloud-native platforms by combining distributed systems research with modern infrastructure engineering.
 
----
+Transforming research ideas into reliable, production-ready systems for the next generation of cloud, edge, and AI-native computing.
 
-## ⚙️ Technical Expertise
-
-**Cloud-Native & Systems Engineering**
-
-* Kubernetes (production-grade cluster management)
-* CI/CD pipelines for automated delivery
-* Infrastructure as Code (IaC) for distributed systems
-
-**Programming & Tools**
-
-* Rust, Go (learning), Bash
-* Docker, Linux
-* Git, VS Code
-![Rust](https://img.shields.io/badge/Rust-Systems-orange)
-![Go](https://img.shields.io/badge/Go-Cloud--Native-blue)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
-![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
-![Serverless Edge](https://img.shields.io/badge/Serverless-Edge%20Computing-blue)
-
----
-
-## 🏗️ Current Work
-
-* 🇪🇺 Developing next-generation edge-cloud solutions within the **EDGELess Project**
-* ⚡ Designing scalable and state-aware serverless systems
-* 🎯 Working toward **Kubestronaut certification track**
-* 🦀 Exploring systems programming with Rust
-* 🐹 Currently learning Go for cloud-native development
-
----
-
-## 🌐 Community & Activities
-
-* ☁️ CNCF Enthusiast
-* 🎤 Attended recently **KubeCon + CloudNativeCon Europe 2026 (Amsterdam)** 
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
-
----
-
-## 🌐 Connect with Me
-
-* 🔗 LinkedIn: https://www.linkedin.com/in/mohamed-rahal-010760193/
-
----
-
-## ⚡ Vision
-
-Transforming advanced distributed systems research into **practical, scalable, and production-ready cloud-native solutions**.
-
----
-
-⭐️ *Research-driven. Systems-oriented. Cloud-native focused.*
+⭐️ Research Engineer | Kubernetes Enthusiast | Platform Engineering | Cloud-Native Infrastructure
