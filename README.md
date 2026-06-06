@@ -15,7 +15,7 @@ My work bridges the gap between centralized cloud systems and distributed edge i
 
 ## 🧩 Background
 
-I hold a Master’s degree in Engineering with a specialization in **Cloud Computing and IT Architecture** from ESPRIT, graduating with distinction.
+I hold a Master’s degree in Engineering with a specialization in **Cloud Computing and IT Architecture** from ESPRIT in Tunisia, graduating with distinction.
 
 My background combines **strong academic foundations in distributed systems** with hands-on experience in **cloud-native engineering and DevOps practices**.
 
